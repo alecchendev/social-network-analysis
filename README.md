@@ -1,2 +1,3 @@
-# social-network-analysis
-Testholder description
+# Social Network Project
+### Motivation
+During my junior year in high school I worked with an associate professor of applied mathematics at Illinois Institute of Technology on an independent research project analyzing network sampling methods. Along the way, I learned a lot about network mathematics, and thought of the idea to apply it to the social network of my own high school. I'd always found the varying connectivity of different groups and people very interesting, and to quanitify and analyze this phenomenon I observed in real life seemed surreal. About a year later, I finally got the opportunity to collect responses and the project came into fruition.
