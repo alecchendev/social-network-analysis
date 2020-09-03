@@ -32,7 +32,7 @@ Here are all the most important and polished visualizations I made for this proj
 <img src="network_hall.png">
 
 ### Hall Degree In/Out
-<img src="hall_degree.png">
+<img src="halls_degree.png">
 
 ### Responses
 <img src="responses.png">
