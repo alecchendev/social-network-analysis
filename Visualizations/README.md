@@ -38,4 +38,4 @@ Here are all the most important and polished visualizations I made for this proj
 <img src="responses.png">
 
 ### Hall Connection Heatmap
-<img src="hall_heatmap.png">
+<img src="halls_heatmap.png">
