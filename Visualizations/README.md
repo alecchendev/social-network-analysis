@@ -14,6 +14,7 @@ Here are all the most important and polished visualizations I made for this proj
 <img src="clustering.png">
 
 ### Shortest Path Length Distribution
+<img src="path_length.png">
 
 ### Mutuality Network
 <img src="network_mutuality.png">
